@@ -6,7 +6,7 @@
 ---
 
 ## 🎥 Demo Video
-👉 **Live Demo:** https://weather-chat-assistance.vercel.app/
+👉 **Live Demo:** (https://cloudwhisper-aitf-anurag.vercel.app/)
 
 ---
 
